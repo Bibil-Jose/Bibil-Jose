@@ -1,3 +1,4 @@
+![logo](https://github.com/Bibil-Jose/Bibil-Jose/blob/main/csm_industrial-engineer-karriere-jobs_a0ad3ea102.jpg)
 <h1 align="center">Hi 👋, I'm Bibil Jose</h1>
 <h3 align="center">Graduate Student in Industrial Engineering(MS) at Arizona State University</h3>
 
