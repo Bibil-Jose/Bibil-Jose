@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bibil Jose</h1>
 <h3 align="center">Graduate Student in Industrial Engineering(MS) at Arizona State University</h3>
 
-<img align=“right” width = “300” src=“https://github.com/Bibil-Jose/Bibil-Jose/blob/main/e9524abbc4095f7a3d74e63bf41bb353.gif”>
+<img align=“right” width = “300” src=“[https://github.com/Bibil-Jose/Bibil-Jose/blob/main/e9524abbc4095f7a3d74e63bf41bb353.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibil-jose&label=Profile%20views&color=0e75b6&style=flat" alt="bibil-jose" /> </p>
 
