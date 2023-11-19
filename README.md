@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibil-jose&label=Profile%20views&color=0e75b6&style=flat" alt="bibil-jose" /> </p>
 
-- 🔭 I’m currently working on **Optimizing Home Solar Energy Harvesting**
+- 🔭 I’m currently working on **Masters Degree in Industrial Engineering specializing in Operations Research and Production Systems Logistics**
 
 - 🌱 I’m currently learning **Network and Process Optimizations and their Algorithms**
 
