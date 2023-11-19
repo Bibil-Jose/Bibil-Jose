@@ -12,7 +12,7 @@
 
 - 💼 Part-time Job **Technology Consultant at Arizona State University**
 
-- 📫 How to reach me **bibiljose2609@gmail.com**
+- 📫 How to reach me **bjose4@asu.edu**
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:2ac63ffe-ca45-3cb6-954e-ac921479fc2f](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:2ac63ffe-ca45-3cb6-954e-ac921479fc2f)
 
